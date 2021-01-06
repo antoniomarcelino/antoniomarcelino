@@ -9,6 +9,8 @@
 - music 🎹
 #### Here you will find some of my projects.
 
+Currently learning: Angular
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-marcelino-de-sousa-neto/)](https://www.linkedin.com/in/antonio-marcelino-de-sousa-neto/)
 
 [My Portfolio](https://antoniomarcelinoportfolio.vercel.app)
